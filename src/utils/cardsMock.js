@@ -1,5 +1,13 @@
 export const proyectsList = [
     {
+        id: 0,
+        title: 'Poketrivia - Game',
+        description:'Juego de trivia realizado con React js + Firebase, con switch de Idiomas en i18Next.',
+        img:'poketrivia.png',
+        gitHub:'https://github.com/Zekki10/poketrivia.git',
+        url:'https://poketrivia.netlify.app/'
+    },
+    {
         id: 1,
         title: 'eCommerce - Fix Training',
         description:'E-Commerce realizado con React js + Firebase, TP final de CoderHouse.',
@@ -25,7 +33,7 @@ export const proyectsList = [
     },
     {
         id: 4,
-        title: 'TP Front - Codo a codo',
+        title: 'TP Front - Codo',
         description:'Realizado con HTML, CSS y JS, como TP del módulo de Front-end de Codo a codo',
         img:'codoacodo1.png',
         gitHub:'https://github.com/Zekki10/Codo-a-codo-TP1.git',

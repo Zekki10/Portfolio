@@ -9,7 +9,7 @@ export const Mail = () => {
         >
             <g 
                 transform="translate(0.000000,200.000000) scale(0.100000,-0.100000)"
-                fill="#000000" 
+                fill="#070717" 
                 stroke="none"
             >
                 <path d="M905 1993 c-78 -11 -198 -48 -280 -87 -249 -118 -427 -328 -512 -603

@@ -8,7 +8,8 @@
     height: 60px;
     justify-content: space-between;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.839);
+    /* background-color: rgba(0, 0, 0, 0.839); */
+    background-color: #070717fc;
     z-index: 10;
 }
 .nav_logo {

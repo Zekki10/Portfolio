@@ -6,7 +6,7 @@ export const Contact = () => {
 
     return (
         <div className='contact_container' id='Contact'>
-            <img alt='cube' className='contact_cube' src='/media/img/3.png'></img>
+            {/* <img alt='cube' className='contact_cube' src='/media/img/3.png'></img> */}
             <div className='contact_buttons'>
                 <h1 className="about_title">Contacta conmigo</h1>
                 <p className='contact_description'>Accede a mis redes a través de los siguientes Links, o descarga mi CV para seguir conociéndome!</p>

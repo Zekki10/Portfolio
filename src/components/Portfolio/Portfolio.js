@@ -6,7 +6,6 @@ export const Portfolio = () => {
     return (
         <div className="portfolio_container" id='Portfolio'>
             <h1 className="portfolio_title">Portfolio</h1>
-            {/* <img alt='rombo' className='img_rombo' src='/media/img/2.png' /> */}
         {   
             proyectsList.map(({id, title, description, img, gitHub, url }) =>{
                 if (id % 2 === 0 ) {

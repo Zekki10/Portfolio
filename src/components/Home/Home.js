@@ -10,10 +10,10 @@ export const Home = () => {
             </div>
             <section className="home_info">
                 <div className="home_title">
-                    <h2 className="home_name">EZEQUIEL VERA</h2>
-                    <h4 className="home_dev">FRONT-END DEVELOPER</h4>
+                    <h2 className="home_name home_animation">EZEQUIEL VERA</h2>
+                    <h4 className="home_dev home_animation_two">WEB DEVELOPER</h4>
                 </div>
-                <img alt="img_cubo" src="./media/img/1.png" className="home_img" />
+                {/* <img alt="img_cubo" src="./media/img/1.png" className="home_img" /> */}
             </section>
             
         </div>
